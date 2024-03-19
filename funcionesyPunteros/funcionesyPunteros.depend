@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1710803155 source:c:\users\alumno\desktop\ejercicios emi\funcionesypunteros\pila.c
+	"pila.h"
+
+1710803165 c:\users\alumno\desktop\ejercicios emi\funcionesypunteros\pila.h
+	<stdio.h>
+	<malloc.h>
+
